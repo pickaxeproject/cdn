@@ -1,4 +1,4 @@
-# Pickaxe CDN
+# Pickaxe CDN 
 
 > Launch an AI storefront with your GPTs, your brand, and your unique knowledge.
 
